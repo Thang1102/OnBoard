@@ -1,0 +1,5 @@
+Cấu hình lotus note server
+Vào config-> chọn server-> all server-> edit server -> internet protocol
+-	Cấu hình enable log files, access log format ->  extend common , directory log file: đường link lưu file log
+-	Khi tạo thư mục lưu file log phải cấp full quyền cho file đó
+-	Restart lại server
